@@ -759,6 +759,9 @@ a{
     .questions{
         flex-direction: column;
     }
+    .questions-content{
+        flex-direction: column;
+    }
     .question{
         width: 100%;
     }
